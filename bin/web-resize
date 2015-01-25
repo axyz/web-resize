@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var webResize = require('../lib/web-resize');
+
+var file = process.argv[2];
+var outputGeometry = process.argv[3];
+var output = process.argv[4];
+
+webResize(file, outputGeometry, output);
