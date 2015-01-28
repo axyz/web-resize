@@ -1,6 +1,6 @@
 {
   "name": "web-resize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node pictures resizer with multistep sharpening and color profile detection",
   "main": "./lib/web-resize",
   "bin": {
